@@ -127,4 +127,4 @@ With applications in data structures, OS, networking, and software systems, this
 
 OUTPUT:
 
-
+![Image](https://github.com/user-attachments/assets/bebe47ec-a2b2-461d-a647-559ca2e02c7d)
