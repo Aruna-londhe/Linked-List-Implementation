@@ -124,3 +124,7 @@ Conclusion
 This Singly Linked List program in C is a powerful example of dynamic data structure management. It demonstrates efficient insertion, deletion, and traversal operations while maintaining a modular, memory-efficient, and flexible implementation.
 
 With applications in data structures, OS, networking, and software systems, this program provides a solid foundation for learning linked list operations and can be further expanded for real-world applications like music players, navigation history, and scheduling algorithms.
+
+OUTPUT:
+
+
